@@ -1,0 +1,9 @@
+redux library:-
+****************
+
+- redux is a library of javascript used for state management in react, angular, uue js apply
+- redux is more supportive in react because , redux also follows unidirectional data flow.
+- redux needs to be installed in react.
+    - npm install redux.
+- for connecting react and redux we need one more third partylibrary called as "react-redux
+    - npm insatll react-redux.
